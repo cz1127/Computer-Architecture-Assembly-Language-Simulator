@@ -3,6 +3,8 @@ CS-UY 2214
 Adapted from Jeff Epstein
 Starter code for E20 simulator
 sim.cpp
+Cindy Zhao
+10/28/24
 */
 
 #include <cstddef>
